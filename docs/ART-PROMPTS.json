@@ -1,0 +1,18 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "key": "lumi-reading",
+      "prompt": "Create a transparent-background character asset for the Lumi children's learning desktop application. Reference image is the exact character identity to preserve: small fluffy cream woodland creature, enormous mint leaf-shaped ears, warm brown eyes, lavender backpack and peach scarf. Full body, same tender high-quality illustrated 3D storybook style, soft textured fur. New pose: sitting comfortably, holding an open dusty-blue book, looking up with a gentle curious smile, little star lantern rests beside the foot. Muted harmonious colors inspired by #57707A #C5BAC4 #F2E6D6 #C8A99D. Keep the lovable face, species, proportions and distinctive ears faithful to reference. Isolated, entire silhouette with generous transparent margins, no ground plane, no background, no text or watermark. Asset will display at 160px tall so clear simple composition.",
+      "referenced_image_paths": [
+        "C:\\Users\\RIDLE\\Documents\\ChatGPT\\PERSONAL\\LUMI\\public\\assets\\lumi.png"
+      ],
+      "transparent_background": true
+    },
+    {
+      "key": "tish",
+      "prompt": "Create a completely original companion character asset for a gentle children's learning app, age 5 through middle school. Tish is a tiny fluffy dusty-blue baby owl, round pear-shaped body, two short feather tufts like little leaves, large kind warm brown eyes, cream belly, tiny peach beak and feet. A sage-green scarf and small dusty-rose crossbody satchel with a simple leaf clasp. Holds a little wooden pencil with a leaf on top, tilts head with a curious slightly puzzled friendly expression. Full body three-quarter front pose, soft illustrated 3D storybook rendering, velvety textured feathers, tasteful delicate lighting. Color palette #57707A #7E919F #C5BAC4 #C8A99D #F2E6D6. Appealing and readable at 120px, a supportive friend who explores and sometimes makes mistakes. Entire silhouette in frame, transparent background, no ground plane, no text, no logos, no watermark.",
+      "transparent_background": true
+    }
+  ]
+}

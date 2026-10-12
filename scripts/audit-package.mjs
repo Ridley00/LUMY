@@ -1,0 +1,25 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url),root=process.cwd(),pkg=JSON.parse(fs.readFileSync('package.json'));
+const asarDir=fs.readdirSync('node_modules/.pnpm').find(f=>f.startsWith('@electron+asar@'));
+const asar=require(path.join(root,'node_modules/.pnpm',asarDir,'node_modules/@electron/asar'));
+const packed=path.join(root,'release',pkg.version,'win-unpacked/resources'),archive=path.join(packed,'app.asar');
+const entries=asar.listPackage(archive).map(x=>x.replaceAll('\\','/'));
+assert.ok(!entries.some(e=>/^\/(data|test-output|tests|scripts|release|node_modules)(\/|$)/.test(e)));
+const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
+const packedFile=file=>asar.extractFile(archive,path.normalize(file));
+const codeFiles=['desktop/main.mjs','profile-codes.mjs','server.mjs','math-check.mjs','world-engine.mjs','practice-bank.mjs','public/app.js','public/world.js','public/world.css','public/companions.js','public/companions.css','public/controls.js','public/controls.css','public/index.html','public/assets/lumi-mark.svg','desktop/assets/lumi-mark.ico','content/courses.json','content/parent-articles.json','content/russian-books.json','content/stories.json','content/program-map.json'];
+for(const file of codeFiles)assert.equal(sha(packedFile(file)),sha(fs.readFileSync(file)),file);
+const resources=JSON.parse(fs.readFileSync('content/resources.json')).resources.filter(r=>r.localFile&&r.bundleInPublicBuild!==false);
+for(const r of JSON.parse(fs.readFileSync('content/resources.json')).resources.filter(r=>r.bundleInPublicBuild===false))assert.ok(!fs.existsSync(path.join(packed,'library',r.localFile)),r.id+' must remain local only');
+for(const r of resources)assert.equal(sha(fs.readFileSync(path.join(packed,'library',r.localFile))),sha(fs.readFileSync(path.join(root,'library',r.localFile))),r.id);
+const pages=JSON.parse(fs.readFileSync('content/books.json')).books.flatMap(b=>b.pages);
+for(const p of pages)assert.equal(sha(packedFile('public'+p)),sha(fs.readFileSync('public'+p)),p);
+for(const p of ['pdf.mjs','pdf.worker.mjs','LICENSE'])assert.ok(packedFile('public/vendor/pdfjs/'+p).length);
+const russian=JSON.parse(fs.readFileSync('content/russian-books.json')).books;
+for(const book of russian){assert.equal(book.language,'ru');assert.ok(book.childSafe);assert.equal(sha(packedFile('public'+book.cover)),sha(fs.readFileSync('public'+book.cover)));}
+for(const asset of ['mira.png','lumi-celebrate.png','lumi-thinking.png'])assert.equal(sha(packedFile('public/assets/'+asset)),sha(fs.readFileSync('public/assets/'+asset)));
+const report={ok:true,version:pkg.version,archiveEntries:entries.length,privateDataExcluded:true,codeFilesVerified:codeFiles.length,libraryFilesVerified:resources.length,legacyBookViewsVerified:pages.length,russianBooksVerified:russian.length,russianPages:russian.reduce((n,b)=>n+b.textPages.length,0),newCharacterAssetsVerified:3,pdfjs:pkg.devDependencies['pdfjs-dist']};fs.writeFileSync('test-output/package-audit.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));

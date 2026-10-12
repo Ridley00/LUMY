@@ -1,0 +1,1240 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "id": "eu-key-competences",
+      "title": "Ключевые компетенции: рекомендация Совета ЕС 2018",
+      "kind": "method",
+      "levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Навыки учёбы",
+        "Критическое мышление",
+        "Благополучие"
+      ],
+      "language": "en",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018H0604(01)",
+      "provider": "Совет Европейского союза / EUR-Lex",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:43.946Z",
+      "status": "link",
+      "notes": "Методический ориентир для родителя: грамотность, математика, цифровые и социальные компетенции. Это рекомендация 2018 года, а не единая школьная программа Европы и не сертификат приложения.",
+      "childSafe": false
+    },
+    {
+      "id": "finland-ecec",
+      "title": "Финляндия: дошкольное образование и игра",
+      "kind": "method",
+      "levels": [
+        0
+      ],
+      "subjects": [
+        "Навыки учёбы",
+        "Благополучие",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-ecec-nutshell",
+      "provider": "Finnish National Agency for Education (EDUFI)",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:43.977Z",
+      "status": "link",
+      "notes": "Официальный обзор дошкольного подхода. На странице с обновлением 17.04.2026 английский PDF 2022 помечен устаревшим; действующая редакция доступна через ePerusteet на финском и шведском. Английский старый PDF не загружен как актуальный.",
+      "childSafe": false
+    },
+    {
+      "id": "finland-basic",
+      "title": "Финляндия: основы начального и основного образования",
+      "kind": "method",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "subjects": [
+        "Навыки учёбы",
+        "Критическое мышление",
+        "Благополучие"
+      ],
+      "language": "en",
+      "url": "https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education",
+      "provider": "Finnish National Agency for Education (EDUFI)",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:43.978Z",
+      "status": "link",
+      "notes": "Обзор основы 2014 года и её введения по ступеням. Участие ученика, межпредметные проекты и поддерживающая оценка. Полный английский учебный план не импортирован; это методический ориентир, не автоматическая эквивалентность российских классов.",
+      "childSafe": false
+    },
+    {
+      "id": "finland-upper",
+      "title": "Финляндия: компетенции в старшей школе",
+      "kind": "method",
+      "levels": [
+        10,
+        11
+      ],
+      "subjects": [
+        "Навыки учёбы",
+        "Критическое мышление",
+        "Благополучие"
+      ],
+      "language": "en",
+      "url": "https://www.oph.fi/en/education-and-qualifications/transversal-competences-finnish-general-upper-secondary-education",
+      "provider": "Finnish National Agency for Education (EDUFI)",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:43.979Z",
+      "status": "link",
+      "notes": "Обзор национальной основы 2019 года: самостоятельность, взаимодействие, этика, благополучие, работа с разными областями знания. Материал для проектирования занятий родителем.",
+      "childSafe": false
+    },
+    {
+      "id": "england-development-matters",
+      "title": "Development Matters: дошкольное развитие",
+      "kind": "method",
+      "levels": [
+        0
+      ],
+      "subjects": [
+        "Навыки учёбы",
+        "Чтение",
+        "Математика",
+        "Благополучие"
+      ],
+      "language": "en",
+      "url": "https://www.gov.uk/government/publications/development-matters--2",
+      "provider": "Department for Education, England",
+      "license": "Open Government Licence v3.0, кроме отдельно обозначенных материалов третьих лиц. Crown copyright.",
+      "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:44.098Z",
+      "status": "downloaded",
+      "notes": "Официальная рекомендательная методика EYFS, редакция сентября 2023. Игра, речь, моторика, первые числа. Для взрослого; английские возрастные этапы не приравниваются к российским классам.",
+      "localFile": "development-matters-2023-en.pdf",
+      "childSafe": false
+    },
+    {
+      "id": "england-primary",
+      "title": "Начальная школа Англии: предметы и цели",
+      "kind": "method",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subjects": [
+        "Разные предметы"
+      ],
+      "language": "en",
+      "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-primary-curriculum",
+      "provider": "Department for Education, England",
+      "license": "Open Government Licence v3.0, кроме отдельно обозначенных материалов третьих лиц. Crown copyright.",
+      "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:44.1Z",
+      "status": "downloaded",
+      "notes": "Официальная программа Key Stages 1-2; страница обновлена 06.05.2015. Не учебник и не российская программа. Предметные цели пригодны для сопоставления тем; классы в каталоге - навигационная рекомендация.",
+      "localFile": "england-primary-curriculum-2015-en.pdf",
+      "childSafe": false
+    },
+    {
+      "id": "england-secondary",
+      "title": "Основная школа Англии: предметы и цели",
+      "kind": "method",
+      "levels": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "subjects": [
+        "Разные предметы"
+      ],
+      "language": "en",
+      "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-secondary-curriculum",
+      "provider": "Department for Education, England",
+      "license": "Open Government Licence v3.0, кроме отдельно обозначенных материалов третьих лиц. Crown copyright.",
+      "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:44.101Z",
+      "status": "downloaded",
+      "notes": "Официальная программа Key Stages 3-4, опубликованная в 2014 году с исправленным PDF по текущей ссылке. Для родителя. Не включает всю ступень A-level и не означает полное покрытие российского 11 класса.",
+      "localFile": "england-secondary-curriculum-en.pdf",
+      "childSafe": false
+    },
+    {
+      "id": "cefr",
+      "title": "CEFR: ориентиры языкового прогресса",
+      "kind": "method",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Английский язык"
+      ],
+      "language": "en",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "provider": "Council of Europe",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:45.038Z",
+      "status": "link",
+      "notes": "Официальная рамка описания языковых навыков. Уровень языка определяется навыками, а не возрастом или классом. Приложение не проводит сертификационный экзамен CEFR.",
+      "childSafe": false
+    },
+    {
+      "id": "eef-metacognition",
+      "title": "Как учиться: планирование, самопроверка и рефлексия",
+      "kind": "method",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Навыки учёбы",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition",
+      "provider": "Education Endowment Foundation",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:45.189Z",
+      "status": "link",
+      "notes": "Официальное руководство Metacognition and Self-Regulated Learning, второе издание 13.11.2025. Практика проговаривания решения и проверки собственной стратегии; адресовано учителям и родителям.",
+      "childSafe": false
+    },
+    {
+      "id": "coe-digital",
+      "title": "Цифровая грамотность и права человека",
+      "kind": "method",
+      "levels": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Информатика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://www.coe.int/en/web/education/digital-transformation",
+      "provider": "Council of Europe",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:45.222Z",
+      "status": "link",
+      "notes": "Официальные материалы о цифровом гражданстве, доступности и использовании технологий с уважением к правам человека. Ресурсы выбирает взрослый по возрасту; это обзор, а не готовый курс.",
+      "childSafe": false
+    },
+    {
+      "id": "bookdash-library",
+      "title": "Book Dash: иллюстрированные книги для совместного чтения",
+      "kind": "book",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "subjects": [
+        "Чтение",
+        "Английский язык"
+      ],
+      "language": "en",
+      "url": "https://bookdash.org/books/",
+      "provider": "Book Dash",
+      "license": "Creative Commons Attribution 4.0 (CC BY 4.0). Сохранены авторы, иллюстрации, сведения об издании и лицензия.",
+      "licenseUrl": "https://bookdash.org/re-using-the-book-dash-content/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:45.304Z",
+      "status": "link",
+      "notes": "Каталог открытых детских книг, включая книги без слов. Есть разные языки, но полноценный русский каталог здесь не заявлен. Для дошкольника подходит совместный рассказ по картинкам.",
+      "childSafe": false
+    },
+    {
+      "id": "bookdash-sloth",
+      "title": "Sleepy Mr Sloth: сонный ленивец",
+      "kind": "book",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "subjects": [
+        "Чтение",
+        "Английский язык"
+      ],
+      "language": "en",
+      "url": "https://bookdash.org/books/sleepy-mr-sloth/",
+      "provider": "Book Dash; Graham Paterson, Paul Kennedy, Nick Mulgrew",
+      "license": "Creative Commons Attribution 4.0 (CC BY 4.0). Сохранены авторы, иллюстрации, сведения об издании и лицензия.",
+      "licenseUrl": "https://bookdash.org/re-using-the-book-dash-content/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "downloaded",
+      "notes": "Сохранён оригинальный EPUB из официального репозитория Book Dash. Для встроенной детской читалки отдельно загружены все 14 изображений текущей веб-редакции: обложка, 12 разворотов и задняя обложка. JPEG преобразован в WebP без изменения декодированных пикселей. Исходный EPUB не исполняется внутри детской страницы. Английский текст и оригинальная верстка сохранены; русский перевод не выполнен. Для совместного чтения или первых занятий английским. childSafe относится к просмотренным статическим страницам книги, не к содержимому внешних ссылок.",
+      "localFile": "bookdash-sleepy-mr-sloth-en.epub",
+      "childSafe": true,
+      "readerId": "bookdash-sloth"
+    },
+    {
+      "id": "bookdash-seed",
+      "title": "A Tiny Seed: история маленького семени",
+      "kind": "book",
+      "levels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "subjects": [
+        "Чтение",
+        "Английский язык",
+        "Естествознание"
+      ],
+      "language": "en",
+      "url": "https://bookdash.org/books/a-tiny-seed/",
+      "provider": "Book Dash; Nicola Rijsdijk, Maya Marshak, Karen Lilje",
+      "license": "Creative Commons Attribution 4.0 (CC BY 4.0). Сохранены авторы, иллюстрации, сведения об издании и лицензия.",
+      "licenseUrl": "https://bookdash.org/re-using-the-book-dash-content/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "downloaded",
+      "notes": "Сохранён оригинальный EPUB из официального репозитория Book Dash. Для встроенной детской читалки отдельно загружены все 14 изображений текущей веб-редакции: обложка, 12 разворотов и задняя обложка. JPEG преобразован в WebP без изменения декодированных пикселей. Исходный EPUB не исполняется внутри детской страницы. Английский текст и оригинальная верстка сохранены; русский перевод не выполнен. Биографическая история для совместного чтения; в финале кратко упоминается смерть Вангари Маатаи. childSafe относится к просмотренным статическим страницам книги, не к содержимому внешних ссылок.",
+      "localFile": "bookdash-a-tiny-seed-en.epub",
+      "childSafe": true,
+      "readerId": "bookdash-seed"
+    },
+    {
+      "id": "cs-unplugged-ru",
+      "title": "Информатика без компьютера: русская книга заданий",
+      "kind": "workbook",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "subjects": [
+        "Информатика",
+        "Математика",
+        "Критическое мышление"
+      ],
+      "language": "ru",
+      "url": "https://classic.csunplugged.org/books/",
+      "provider": "University of Canterbury / CS Unplugged; перевод И. А. Деревянко",
+      "license": "В загруженном русском PDF 2010 года, предисловие: Creative Commons Attribution-NonCommercial-NoDerivs (версия не указана). Разрешены личное и образовательное использование, копирование неизменённого оригинала с атрибуцией; коммерческое использование и изменение запрещены.",
+      "licenseUrl": "https://classic.csunplugged.org/documents/books/russian/unpluggedTeachers-russian.pdf",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:45.811Z",
+      "status": "downloaded",
+      "notes": "Русский перевод классического сборника 2010: двоичные числа, изображения, алгоритмы, игры и листы заданий. Историческое издание, не современный полный курс информатики. Содержит пояснения и ответы для взрослого. Не переводить и не перерабатывать эту редакцию без разрешения.",
+      "localFile": "cs-unplugged-russian.pdf",
+      "childSafe": false
+    },
+    {
+      "id": "cs-unplugged-en",
+      "title": "CS Unplugged 2015: рабочие листы и объяснения",
+      "kind": "workbook",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Информатика",
+        "Математика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://classic.csunplugged.org/books/",
+      "provider": "University of Canterbury / CS Unplugged",
+      "license": "В загруженном PDF 2015, предисловие: CC BY-NC-SA 3.0. Некоммерческое использование с атрибуцией и сохранением совместимой лицензии при изменениях.",
+      "licenseUrl": "https://classic.csunplugged.org/documents/books/english/CSUnplugged_OS_2015_v3.1.pdf",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:45.811Z",
+      "status": "downloaded",
+      "notes": "Классическое издание 2015, версия 3.1. Задания и материалы для печати с инструкциями взрослому. Книга включает ответы; уровень отдельных занятий выбирается вручную.",
+      "localFile": "cs-unplugged-2015-en.pdf",
+      "childSafe": false
+    },
+    {
+      "id": "cs-printables",
+      "title": "CS Unplugged: карточки для печати",
+      "kind": "workbook",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "subjects": [
+        "Информатика",
+        "Математика"
+      ],
+      "language": "en",
+      "url": "https://www.csunplugged.org/en/resources/",
+      "provider": "University of Canterbury / CS Unplugged",
+      "license": "CC BY-SA 4.0 для содержимого текущего сайта; отдельные уведомления сохраняются.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:45.978Z",
+      "status": "link",
+      "notes": "Карточки двоичных чисел, сетки, пиксельные рисунки, маршруты и сортировки. Официальный каталог материалов для печати. Это отдельные занятия, а не рабочая тетрадь на учебный год.",
+      "childSafe": false
+    },
+    {
+      "id": "british-worksheets",
+      "title": "British Council: рабочие листы по английскому",
+      "kind": "workbook",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "subjects": [
+        "Английский язык"
+      ],
+      "language": "en",
+      "url": "https://learnenglishkids.britishcouncil.org/print-make/worksheets",
+      "provider": "British Council / LearnEnglish Kids",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.293Z",
+      "status": "link",
+      "notes": "Официальные бесплатные листы для скачивания и печати на странице издателя. Темы: семья, числа, чтение, школа, окружающий мир. Некоторые задания и страницы содержат ответы. Копии в приложении не создавались.",
+      "childSafe": false
+    },
+    {
+      "id": "british-numbers",
+      "title": "Числа по-английски: задания 1-10, 11-20 и 10-100",
+      "kind": "workbook",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "subjects": [
+        "Английский язык",
+        "Математика"
+      ],
+      "language": "en",
+      "url": "https://learnenglishkids.britishcouncil.org/print-make/worksheets/numbers",
+      "provider": "British Council / LearnEnglish Kids",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.368Z",
+      "status": "link",
+      "notes": "На официальной странице отдельно размещены листы и ответы. Для дошкольного возраста - с взрослым. Ссылка не скрывает ответы на внешнем сайте.",
+      "childSafe": false
+    },
+    {
+      "id": "nrich-early",
+      "title": "NRICH: первые числа, формы и рассуждения",
+      "kind": "bank",
+      "levels": [
+        0,
+        1
+      ],
+      "subjects": [
+        "Математика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://nrich.maths.org/tags/early-years-foundation-stage",
+      "provider": "University of Cambridge / NRICH",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.416Z",
+      "status": "link",
+      "notes": "Игровые математические занятия раннего возраста: сравнение, порядок, форма, количество. Инструкции на английском, взрослому нужно объяснить их ребёнку.",
+      "childSafe": false
+    },
+    {
+      "id": "nrich-primary",
+      "title": "NRICH: исследовательские задачи начальной школы",
+      "kind": "bank",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "subjects": [
+        "Математика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://nrich.maths.org/students/primary",
+      "provider": "University of Cambridge / NRICH",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.464Z",
+      "status": "link",
+      "notes": "Задачи, в которых нужно объяснять и сравнивать способы решения. Навигация по темам. Материалы Cambridge NRICH не означают аккредитацию приложения Cambridge.",
+      "childSafe": false
+    },
+    {
+      "id": "nrich-secondary",
+      "title": "NRICH: задачи основной и старшей школы",
+      "kind": "bank",
+      "levels": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Математика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://nrich.maths.org/students/secondary",
+      "provider": "University of Cambridge / NRICH",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.642Z",
+      "status": "link",
+      "notes": "Задачи разной сложности на числа, алгебру, геометрию и вероятность. Выбор класса в LUMI - подсказка для навигации; конкретная задача может требовать иных предварительных знаний.",
+      "childSafe": false
+    },
+    {
+      "id": "phet-ru",
+      "title": "PhET: интерактивные модели на русском",
+      "kind": "bank",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Математика",
+        "Естествознание",
+        "Физика",
+        "Химия",
+        "Биология"
+      ],
+      "language": "ru",
+      "url": "https://phet.colorado.edu/ru/",
+      "provider": "University of Colorado Boulder / PhET",
+      "license": "Ссылка на официальный сайт. Условия зависят от конкретной модели и её компонентов; модель целиком не импортирована.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.714Z",
+      "status": "link",
+      "notes": "Виртуальные эксперименты и математические модели; доступность перевода зависит от симуляции. Нужен отдельный выбор модели по теме и возрасту. Автопроверка домашних заданий через PhET не подключена.",
+      "childSafe": false
+    },
+    {
+      "id": "scratch-ideas",
+      "title": "Scratch: первые проекты и программирование",
+      "kind": "bank",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "subjects": [
+        "Информатика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://scratch.mit.edu/ideas",
+      "provider": "Scratch Foundation",
+      "license": "Ссылка на официальный сайт. Лицензии проектов и учебных материалов проверяются отдельно; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.748Z",
+      "status": "link",
+      "notes": "Официальные идеи проектов и руководства. Язык можно сменить на сайте Scratch. Создание проекта не требует включать публичное общение; публикация и аккаунт не выполнялись.",
+      "childSafe": false
+    },
+    {
+      "id": "gramota-textbook",
+      "title": "Грамота.ру: учебник русского языка",
+      "kind": "book",
+      "levels": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Русский язык"
+      ],
+      "language": "ru",
+      "url": "https://gramota.ru/uchebnik",
+      "provider": "Грамота.ру",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:47.777Z",
+      "status": "link",
+      "notes": "Русскоязычный справочный учебник для поиска правил и примеров. Не копия школьного учебника и не сборник ГДЗ по конкретному изданию; содержание не импортировано.",
+      "childSafe": false
+    },
+    {
+      "id": "openstax-prealgebra",
+      "title": "Prealgebra 2e: арифметика и начало алгебры",
+      "kind": "book",
+      "levels": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "subjects": [
+        "Математика"
+      ],
+      "language": "en",
+      "url": "https://openstax.org/books/prealgebra-2e/pages/preface",
+      "provider": "OpenStax / Rice University",
+      "license": "CC BY-NC-SA 4.0 по текущей странице издателя; только некоммерческое использование с атрибуцией. Для файла дополнительно см. лицензию внутри оригинала.",
+      "licenseUrl": "https://openstax.org/books/prealgebra-2e/pages/preface",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:47.784Z",
+      "status": "link",
+      "notes": "Издание 2020. Учебник с примерами и тренировочными заданиями на английском, первоначально для подготовительного курса колледжа. Использовать отдельные темы, не привязывать весь том к классу. Не включать в AI/RAG: текущая страница требует отдельного разрешения издателя.",
+      "childSafe": false
+    },
+    {
+      "id": "openstax-elementary",
+      "title": "Elementary Algebra 2e: алгебра с упражнениями",
+      "kind": "book",
+      "levels": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Математика"
+      ],
+      "language": "en",
+      "url": "https://openstax.org/books/elementary-algebra-2e/pages/preface",
+      "provider": "OpenStax / Rice University; Lynn Marecek, MaryAnne Anthony-Smith, Andrea Honeycutt Mathis",
+      "license": "CC BY-NC-SA 4.0 по текущей странице издателя; только некоммерческое использование с атрибуцией. Для файла дополнительно см. лицензию внутри оригинала.",
+      "licenseUrl": "https://openstax.org/books/elementary-algebra-2e/pages/preface",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:47.849Z",
+      "status": "link",
+      "notes": "Издание 2020. Линейные и квадратные уравнения, графики, системы, многочлены. Оригинальный PDF может содержать ответы. Уровни в каталоге - ориентир по темам, не утверждение соответствия классу. Не передавать в AI/RAG без отдельного разрешения OpenStax. Локальная загрузка не удалась: HTTP 403. Доступна только ссылка.",
+      "childSafe": false
+    },
+    {
+      "id": "openstax-biology",
+      "title": "Biology 2e: биология и научное исследование",
+      "kind": "book",
+      "levels": [
+        10,
+        11
+      ],
+      "subjects": [
+        "Биология",
+        "Естествознание"
+      ],
+      "language": "en",
+      "url": "https://openstax.org/books/biology-2e/pages/preface",
+      "provider": "OpenStax / Rice University",
+      "license": "CC BY-NC-SA 4.0 по текущей странице издателя; только некоммерческое использование с атрибуцией. Для файла дополнительно см. лицензию внутри оригинала.",
+      "licenseUrl": "https://openstax.org/books/biology-2e/pages/preface",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:47.999Z",
+      "status": "link",
+      "notes": "Материал уровня вводного университетского курса. Для углубления отдельных тем старшей школы с взрослым; превышает школьную нагрузку. Есть упражнения. Не импортирован и не предназначен для AI/RAG без разрешения издателя.",
+      "childSafe": false
+    },
+    {
+      "id": "openstax-chemistry",
+      "title": "Chemistry 2e: химия с примерами и заданиями",
+      "kind": "book",
+      "levels": [
+        10,
+        11
+      ],
+      "subjects": [
+        "Химия",
+        "Естествознание"
+      ],
+      "language": "en",
+      "url": "https://openstax.org/books/chemistry-2e/pages/preface",
+      "provider": "OpenStax / Rice University",
+      "license": "CC BY-NC-SA 4.0 по текущей странице издателя; только некоммерческое использование с атрибуцией. Для файла дополнительно см. лицензию внутри оригинала.",
+      "licenseUrl": "https://openstax.org/books/chemistry-2e/pages/preface",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:48.034Z",
+      "status": "link",
+      "notes": "Англоязычный вводный университетский курс. Для дополнительной работы по выбранным темам, а не полный перевод школьной химии. Не импортирован и не предназначен для AI/RAG без разрешения издателя.",
+      "childSafe": false
+    },
+    {
+      "id": "openstax-physics",
+      "title": "Physics: школьная физика с моделями и задачами",
+      "kind": "book",
+      "levels": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Физика",
+        "Естествознание",
+        "Математика"
+      ],
+      "language": "en",
+      "url": "https://openstax.org/books/physics/pages/preface",
+      "provider": "OpenStax / Rice University",
+      "license": "CC BY-NC-SA 4.0 по текущей странице издателя; только некоммерческое использование с атрибуцией. Для файла дополнительно см. лицензию внутри оригинала.",
+      "licenseUrl": "https://openstax.org/books/physics/pages/preface",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:48.082Z",
+      "status": "link",
+      "notes": "Англоязычный учебник Physics для high school. Порядок тем отличается от российских учебников. Не импортирован и не предназначен для AI/RAG без разрешения издателя.",
+      "childSafe": false
+    },
+    {
+      "id": "fipi-oge-math-2026",
+      "title": "ОГЭ 2026: математика, официальная демоверсия",
+      "kind": "exam",
+      "levels": [
+        8,
+        9
+      ],
+      "subjects": [
+        "Математика"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/oge/demoversii-specifikacii-kodifikatory",
+      "provider": "ФИПИ",
+      "license": "Официальная общедоступная публикация ФИПИ с кнопкой скачивания. Открытая лицензия для переиздания не заявлена. Оригинал сохранён для локальной семейной подготовки, без изменения и публикации.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:48.127Z",
+      "status": "downloaded",
+      "notes": "Архив именно 2026 года: демоверсия, спецификация, кодификатор. Содержит критерии и ответы, предназначен родителю. Это образец формата, не все задания банка и не вариант будущего реального экзамена.",
+      "localFile": "fipi-oge-2026-math.zip",
+      "childSafe": false,
+      "bundleInPublicBuild": false
+    },
+    {
+      "id": "fipi-oge-russian-2026",
+      "title": "ОГЭ 2026: русский язык, официальная демоверсия",
+      "kind": "exam",
+      "levels": [
+        8,
+        9
+      ],
+      "subjects": [
+        "Русский язык"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/oge/demoversii-specifikacii-kodifikatory",
+      "provider": "ФИПИ",
+      "license": "Официальная общедоступная публикация ФИПИ с кнопкой скачивания. Открытая лицензия для переиздания не заявлена. Оригинал сохранён для локальной семейной подготовки, без изменения и публикации.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:48.127Z",
+      "status": "downloaded",
+      "notes": "Архив именно 2026 года: официальные документы по русскому языку. Критерии и ответы находятся внутри. Работа с сочинением требует содержательной оценки взрослого; локальный тест не равен оценке эксперта.",
+      "localFile": "fipi-oge-2026-russian.zip",
+      "childSafe": false,
+      "bundleInPublicBuild": false
+    },
+    {
+      "id": "fipi-ege-math-2026",
+      "title": "ЕГЭ 2026: математика, официальные документы",
+      "kind": "exam",
+      "levels": [
+        10,
+        11
+      ],
+      "subjects": [
+        "Математика"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/ege/demoversii-specifikacii-kodifikatory",
+      "provider": "ФИПИ",
+      "license": "Официальная общедоступная публикация ФИПИ с кнопкой скачивания. Открытая лицензия для переиздания не заявлена. Оригинал сохранён для локальной семейной подготовки, без изменения и публикации.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:48.363Z",
+      "status": "downloaded",
+      "notes": "Официальный математический архив 2026 года, базовый и профильный уровни. Содержит демонстрационные варианты и критерии. Выбор уровня подготовки родитель задаёт отдельно.",
+      "localFile": "fipi-ege-2026-math.zip",
+      "childSafe": false,
+      "bundleInPublicBuild": false
+    },
+    {
+      "id": "fipi-ege-russian-2026",
+      "title": "ЕГЭ 2026: русский язык, официальная демоверсия",
+      "kind": "exam",
+      "levels": [
+        10,
+        11
+      ],
+      "subjects": [
+        "Русский язык"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/ege/demoversii-specifikacii-kodifikatory",
+      "provider": "ФИПИ",
+      "license": "Официальная общедоступная публикация ФИПИ с кнопкой скачивания. Открытая лицензия для переиздания не заявлена. Оригинал сохранён для локальной семейной подготовки, без изменения и публикации.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T12:33:48.363Z",
+      "status": "downloaded",
+      "notes": "Официальный архив 2026 года. Есть ответы и критерии оценивания. Сочинение, аргументация и язык требуют проверки взрослым; не заявляется автоматическое выставление экзаменационных баллов.",
+      "localFile": "fipi-ege-2026-russian.zip",
+      "childSafe": false,
+      "bundleInPublicBuild": false
+    },
+    {
+      "id": "fipi-oge-bank",
+      "title": "ФИПИ: открытый банк заданий ОГЭ",
+      "kind": "bank",
+      "levels": [
+        8,
+        9
+      ],
+      "subjects": [
+        "Разные предметы"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/oge/otkrytyy-bank-zadaniy-oge",
+      "provider": "ФИПИ",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:48.529Z",
+      "status": "link",
+      "notes": "Официальный переход к заданиям по предметам. Банк целиком не скачан, не встроен и не сопоставлен автоматически с темами LUMI. Состояние отдельных заданий и доступ к интерактивному банку проверяются на сайте ФИПИ.",
+      "childSafe": false
+    },
+    {
+      "id": "fipi-ege-bank",
+      "title": "ФИПИ: открытый банк заданий ЕГЭ",
+      "kind": "bank",
+      "levels": [
+        10,
+        11
+      ],
+      "subjects": [
+        "Разные предметы"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege",
+      "provider": "ФИПИ",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:48.554Z",
+      "status": "link",
+      "notes": "Официальный банк и открытые варианты. Это ссылка на внешний источник, а не загруженный банк вопросов LUMI. При выборе материалов учитывать год и выбранный предмет.",
+      "childSafe": false
+    },
+    {
+      "id": "fipi-projects-2027",
+      "title": "ОГЭ и ЕГЭ 2027: опубликованные проекты",
+      "kind": "exam",
+      "levels": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Разные предметы"
+      ],
+      "language": "ru",
+      "url": "https://fipi.ru/",
+      "provider": "ФИПИ",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:48.574Z",
+      "status": "link",
+      "notes": "При проверке 11.10.2026 официальный сайт содержит проекты документов 2027 и приглашение к обсуждению до 30.09.2026. Окончательное утверждение этой подборкой не подтверждено. В локальную библиотеку загружены документы 2026, проекты 2027 оставлены ссылкой.",
+      "childSafe": false
+    },
+    {
+      "id": "fioco-vpr",
+      "title": "ВПР: официальный каталог образцов и описаний",
+      "kind": "exam",
+      "levels": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "subjects": [
+        "Разные предметы"
+      ],
+      "language": "ru",
+      "url": "https://fioco.ru/obraztsi_i_opisaniya_vpr",
+      "provider": "ФИОКО",
+      "license": "Ссылка на официальный ресурс. Право массового копирования и переиздания не подтверждено; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T12:33:48.6Z",
+      "status": "link",
+      "notes": "Официальный адрес каталога образцов ВПР. При текущей проверке прямое соединение не удалось; год и состав файлов этой страницы я не могу подтвердить. Материалы ВПР не загружены. Использовать только после повторной проверки доступности, года и класса.",
+      "childSafe": false
+    },
+    {
+      "id": "bookdash-umbrella",
+      "title": "Красный зонтик / The Red Umbrella",
+      "kind": "book",
+      "levels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "subjects": [
+        "Чтение",
+        "Развитие речи"
+      ],
+      "language": "zxx",
+      "url": "https://bookdash.org/books/the-red-umbrella/",
+      "provider": "Book Dash; Chrissie Kritzinger, Lenka Knoetze, Reshoketswe Motau",
+      "license": "CC BY 4.0. Сохранять имена создателей, ссылку на источник, логотип Book Dash и описание преобразования формата.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "downloaded",
+      "notes": "История без слов; название и имена на обложке на английском. Локально сохранены 14 оригинальных представлений из читателя издателя: обложка, 12 разворотов и задняя обложка. Архив собран из оригинальных JPEG и атрибуции; это не PDF печатного издания. Все изображения просмотрены. В истории есть бытовая сцена у церкви, без религиозного наставления. childSafe относится к просмотренным статическим страницам книги, не к содержимому внешних ссылок.",
+      "childSafe": true,
+      "localFile": "bookdash-umbrella-reader.zip",
+      "licenseUrl": "https://bookdash.org/re-using-the-book-dash-content/",
+      "readerId": "bookdash-umbrella"
+    },
+    {
+      "id": "bookdash-dress",
+      "title": "Я умею одеваться! / I can dress myself!",
+      "kind": "book",
+      "levels": [
+        0,
+        1,
+        2
+      ],
+      "subjects": [
+        "Чтение",
+        "Развитие речи",
+        "Самостоятельность"
+      ],
+      "language": "zxx",
+      "url": "https://bookdash.org/books/i-can-dress-myself/",
+      "provider": "Book Dash; Bridget Krone, Heidel Dedekind, Nontobeko Kunene",
+      "license": "CC BY 4.0. Сохранять имена создателей, ссылку на источник, логотип Book Dash и описание преобразования формата.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "downloaded",
+      "notes": "История без слов для совместного обсуждения. Обложка и имена на английском. Сохранены 14 представлений исходного читателя: обложка, 12 разворотов и задняя обложка. Архив из оригинальных JPEG с атрибуцией, не PDF печатного издания. Все изображения просмотрены; в бытовых сценах ребёнок самостоятельно ищет одежду. childSafe относится к просмотренным статическим страницам книги, не к содержимому внешних ссылок.",
+      "childSafe": true,
+      "localFile": "bookdash-dress-reader.zip",
+      "licenseUrl": "https://bookdash.org/re-using-the-book-dash-content/",
+      "readerId": "bookdash-dress"
+    },
+    {
+      "id": "google-bia-curriculum",
+      "title": "Безопасность в интернете: Be Internet Awesome",
+      "kind": "workbook",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "subjects": [
+        "Интернет-безопасность",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://beinternetawesome.withgoogle.com/en_us/educators",
+      "provider": "Google, iKeepSafe, The Net Safety Collaborative",
+      "license": "CC BY 4.0 для основного curriculum; прямо указано на официальной странице Educators. Сохранять исходные атрибуции.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "downloaded",
+      "notes": "Оригинальный PDF июня 2023, 158 страниц: цифровой след, фишинг, пароли, доброжелательность и обращение за помощью. Введение рекомендует grades 2-6; российские классы в каталоге служат навигацией. Содержит рабочие листы и ключи ответов, поэтому полный файл только родителю. Отдельные новые материалы на странице имеют собственные условия.",
+      "childSafe": false,
+      "localFile": "google-be-internet-awesome-2023-en.pdf",
+      "licenseUrl": "https://beinternetawesome.withgoogle.com/en_us/educators"
+    },
+    {
+      "id": "google-bia-ai",
+      "title": "Как устроен AI: занятия для взрослого и ребёнка",
+      "kind": "method",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "subjects": [
+        "Информатика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://services.google.com/fh/files/misc/bia_ai-literacy-guide_en.pdf",
+      "provider": "Google / Be Internet Awesome",
+      "license": "Официально предлагаемый PDF; отдельная свободная лицензия этого дополнения не подтверждена. Ссылка без переиздания.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "link",
+      "notes": "AI Literacy Guide указан издателем для grades 2-8. Объясняет данные, алгоритмы и машинное обучение. Содержит инструкции и примерные ответы взрослому. Только ссылка на оригинал; разрешение основной программы CC BY не переносится автоматически на это дополнение.",
+      "childSafe": false
+    },
+    {
+      "id": "google-interland",
+      "title": "Interland: игровая практика интернет-безопасности",
+      "kind": "bank",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "subjects": [
+        "Интернет-безопасность"
+      ],
+      "language": "en",
+      "url": "https://beinternetawesome.withgoogle.com/en_us/interland",
+      "provider": "Google / Be Internet Awesome",
+      "license": "Ссылка на официальный сервис. Игра, код и ассеты в LUMI не импортированы.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "link",
+      "notes": "Внешняя игра про фишинг, приватность, пароли и общение. Проверена HTTP-доступность страницы; прохождение всех уровней и работа на конкретном Android не проверены. Локальная установка игры не выполнена.",
+      "childSafe": false
+    },
+    {
+      "id": "rpi-scratch-book",
+      "title": "Code Club Book of Scratch: создаём игры и истории",
+      "kind": "book",
+      "levels": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "subjects": [
+        "Информатика",
+        "Создание игр"
+      ],
+      "language": "en",
+      "url": "https://magazine.raspberrypi.com/books/book-of-scratch",
+      "provider": "Raspberry Pi Press; Rik Cross, Tracy Gardner; Timothy Winchester; Critical Media; Phil King, Nicola King",
+      "license": "CC BY-NC-SA 3.0 Unported, кроме отдельно оговорённых элементов; указано на странице 3 PDF. Некоммерческое использование с атрибуцией.",
+      "downloadAllowed": true,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "downloaded",
+      "notes": "Первое издание 2018, оригинальный PDF 111 страниц. Игры, анимация, интерактивные истории. Интерфейс Scratch в старом издании может отличаться от текущего. В конце Puzzle Answers, поэтому целая книга доступна родителю. Файл не переработан.",
+      "childSafe": false,
+      "localFile": "rpi-code-club-book-of-scratch-2018-en.pdf",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "id": "rpi-code-projects",
+      "title": "Code Club Projects: от первых блоков до собственных проектов",
+      "kind": "bank",
+      "levels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Информатика",
+        "Создание игр"
+      ],
+      "language": "en",
+      "url": "https://www.raspberrypi.org/learn",
+      "provider": "Raspberry Pi Foundation / Code Club",
+      "license": "Ссылка на официальный каталог бесплатных проектов. Лицензия проверяется для каждого скачиваемого проекта; содержимое не импортировано.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "link",
+      "notes": "Пошаговые проекты для детей и подростков: игры, анимация и веб-страницы. Каталог ведёт на Code Club Projects. Возраст и сложность выбирает взрослый по конкретному проекту; это дополнительный практикум, а не полный школьный курс.",
+      "childSafe": false
+    },
+    {
+      "id": "makecode-arcade",
+      "title": "MakeCode Arcade: программируем собственную игру",
+      "kind": "bank",
+      "levels": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Информатика",
+        "Создание игр"
+      ],
+      "language": "en",
+      "url": "https://www.microsoft.com/en-us/makecode",
+      "provider": "Microsoft MakeCode",
+      "license": "Ссылка на официальный бесплатный редактор и руководства. Исходники платформы и учебные ассеты не копировались, права на каждый набор проверяются отдельно.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "link",
+      "notes": "Блочное программирование с переходом к JavaScript и Python; встроенные руководства для игровых проектов. В каталоге используется Arcade. Minecraft Education - отдельный продукт с отдельным доступом, бесплатный Minecraft здесь не обещается. Онлайн-редактор не встроен в локальный сервер.",
+      "childSafe": false
+    },
+    {
+      "id": "cs-field-guide",
+      "title": "Computer Science Field Guide: как работают компьютеры",
+      "kind": "book",
+      "levels": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Информатика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://www.csfieldguide.org.nz/en/",
+      "provider": "University of Canterbury / Computer Science Education Research Group",
+      "license": "Содержимое сайта CC BY-SA 4.0; отдельные компоненты сохраняют собственную атрибуцию. В LUMI только ссылка.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "link",
+      "notes": "Интерактивная книга для старших школьников о понятиях информатики. Есть ученический и учительский режимы, поэтому внешний сайт нельзя считать разделом со скрытыми ответами. Сайт проверен, все интерактивные задания целиком не пройдены.",
+      "childSafe": false,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "openlearn-digital",
+      "title": "OpenLearn: уверенность и критическое мышление в цифровом мире",
+      "kind": "method",
+      "levels": [
+        9,
+        10,
+        11
+      ],
+      "subjects": [
+        "Интернет-безопасность",
+        "Информатика",
+        "Критическое мышление"
+      ],
+      "language": "en",
+      "url": "https://www.open.edu/openlearn/digital-computing/digital-skills-succeeding-digital-world/content-section-0",
+      "provider": "The Open University / OpenLearn",
+      "license": "Официальный бесплатный курс. Лицензия Creative Commons не охватывает автоматически чужие иллюстрации и иные сторонние материалы. Курс не импортирован.",
+      "downloadAllowed": false,
+      "checkedAt": "2026-10-11T19:46:46.817242+03:00",
+      "status": "link",
+      "notes": "Digital skills: succeeding in a digital world. По описанию издателя 8 недель по 3 часа, суммарно 24 часа. Рассчитан прежде всего на самостоятельное обучение взрослых; для старших подростков с подходящим английским. Читать можно без регистрации, отслеживание прогресса и часть активностей требуют учётной записи на внешнем сайте. Школьная аттестация LUMI не предоставляется.",
+      "childSafe": false
+    }
+  ]
+}

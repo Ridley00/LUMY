@@ -1,0 +1,71 @@
+{
+  "name": "lumi-family-learning",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Локальная семейная учебная среда от дошкольной подготовки до 11 класса",
+  "main": "desktop/main.mjs",
+  "author": "Lumi family",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node server.mjs",
+    "desktop": "electron .",
+    "desktop:pack": "electron-builder --win portable --x64 --publish never",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@11.19.0",
+  "devDependencies": {
+    "electron": "44.7.0",
+    "electron-builder": "26.15.3",
+    "pdfjs-dist": "6.4.299"
+  },
+  "build": {
+    "appId": "family.lumi.study",
+    "productName": "Луми",
+    "executableName": "Lumi",
+    "artifactName": "Lumi-${version}-Windows-x64.${ext}",
+    "directories": {
+      "output": "release/0.3.0",
+      "buildResources": "desktop/assets"
+    },
+    "files": [
+      "desktop/main.mjs",
+      "desktop/assets/lumi-mark.ico",
+      "server.mjs",
+      "math-check.mjs",
+      "practice-bank.mjs",
+      "world-engine.mjs",
+      "package.json",
+      "public/**/*",
+      "content/*.json",
+      "profile-codes.mjs"
+    ],
+    "extraResources": [
+      {
+        "from": "library",
+        "to": "library",
+        "filter": [
+          "*.pdf",
+          "*.zip",
+          "*.epub",
+          "!fipi-*.zip"
+        ]
+      }
+    ],
+    "asar": true,
+    "compression": "normal",
+    "forceCodeSigning": false,
+    "win": {
+      "target": [
+        "portable"
+      ],
+      "icon": "desktop/assets/lumi-mark.ico"
+    },
+    "portable": {
+      "requestExecutionLevel": "user"
+    }
+  }
+}

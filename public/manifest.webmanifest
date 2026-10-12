@@ -1,0 +1,10 @@
+{
+  "name": "Луми · Семейная учебная среда",
+  "short_name": "Луми",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2e6d6",
+  "theme_color": "#57707a",
+  "icons": [{"src":"/assets/lumi-mark.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}

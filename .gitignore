@@ -1,0 +1,15 @@
+data/
+node_modules/
+release/
+*.log
+*.pid
+.env
+test-output/
+logs/
+library/fipi-*.zip
+.env.*
+*.pem
+*.key
+pending-child-codes.json
+family*.json
+library/.qa/

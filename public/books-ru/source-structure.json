@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ushinsky-four-wishes",
+    "sourceRevision": 5645028,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "tolstoy-three-bears",
+    "sourceRevision": 5647402,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "tolstoy-filipok",
+    "sourceRevision": 5642607,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "garshin-travelling-frog",
+    "sourceRevision": 4719264,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "kuprin-elephant",
+    "sourceRevision": 5641525,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "chekhov-whitehead",
+    "sourceRevision": 5642389,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "chekhov-chameleon",
+    "sourceRevision": 5321508,
+    "nonNavigationTables": [],
+    "checked": true
+  },
+  {
+    "id": "pushkin-stationmaster",
+    "sourceRevision": 5634936,
+    "nonNavigationTables": [
+      "Коллежский регистратор, Почтовой станции диктатор. Князь Вяземский."
+    ],
+    "checked": true
+  }
+]

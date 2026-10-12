@@ -1,0 +1,415 @@
+{
+  "checkedAt": "2026-10-11T18:46:03.238184+00:00",
+  "sources": [
+    {
+      "id": "ushinsky-four-wishes",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F_(%D0%A3%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5+%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F+%28%D0%A3%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29&oldid=5645028",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5+%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F+%28%D0%A3%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:45:59.816839+00:00",
+      "sourceRevision": 5645028,
+      "sourceAuthor": "автор К. Д. Ушинский",
+      "sourceEdition": "Ушинский, К. Д. Собр. соч. : в 11 т. Т. 6. — М.-Л. : Изд. Акад. пед. наук РСФСР, 1949. — С. 86.",
+      "sourceResponseBytes": 8948,
+      "sourceResponseSha256": "5be1dd398876579d4d503a66f2bedd8fd85536f59038d73de2fc4400fcdaf631",
+      "completeTextSha256": "5720d4cd612c374d45da365cd65b5c587b127a0438338c88ba81f82bb397bd02",
+      "removedReferenceMarkers": 0,
+      "sourceHasPublicDomainNotice": true,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "5720d4cd612c374d45da365cd65b5c587b127a0438338c88ba81f82bb397bd02",
+      "editorialCorrectionCount": 0,
+      "textPageCount": 2,
+      "epigraphRetained": false
+    },
+    {
+      "id": "tolstoy-three-bears",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%A2%D1%80%D0%B8_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%A2%D1%80%D0%B8+%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F+%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&oldid=5647402",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%A2%D1%80%D0%B8+%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F+%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:00.272323+00:00",
+      "sourceRevision": 5647402,
+      "sourceAuthor": "автор Лев Николаевич Толстой",
+      "sourceEdition": "Л.Н. Толстой. Собрание сочинений в 22 т. — М.: Художественная литература, 1982. — Т. 10.",
+      "sourceResponseBytes": 12264,
+      "sourceResponseSha256": "11cbf6ea5866861b5227c6ded7c49faff58b7a8d90310bd62f9297604157bcb0",
+      "completeTextSha256": "2338d4024c664d6cd3ea67059862ec6a8cc847e1ea358899511ad1206dc18b53",
+      "removedReferenceMarkers": 0,
+      "sourceHasPublicDomainNotice": false,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "2338d4024c664d6cd3ea67059862ec6a8cc847e1ea358899511ad1206dc18b53",
+      "editorialCorrectionCount": 0,
+      "textPageCount": 4,
+      "epigraphRetained": false
+    },
+    {
+      "id": "tolstoy-filipok",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BE%D0%BA_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BE%D0%BA+%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&oldid=5642607",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BE%D0%BA+%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:00.652049+00:00",
+      "sourceRevision": 5642607,
+      "sourceAuthor": "автор Лев Николаевич Толстой",
+      "sourceEdition": "РВБ (1982)",
+      "sourceResponseBytes": 9484,
+      "sourceResponseSha256": "2ae919f04e7bcb50e00031e9840276d5a5263a41a9eb51e079ea521be4e9aea5",
+      "completeTextSha256": "8eb04f328b53b1a4df73eb7a30c1268ce900ddcd4c85428f1c5dcc26bba3874b",
+      "removedReferenceMarkers": 0,
+      "sourceHasPublicDomainNotice": false,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "8eb04f328b53b1a4df73eb7a30c1268ce900ddcd4c85428f1c5dcc26bba3874b",
+      "editorialCorrectionCount": 0,
+      "textPageCount": 4,
+      "epigraphRetained": false
+    },
+    {
+      "id": "garshin-travelling-frog",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B0-%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0_(%D0%93%D0%B0%D1%80%D1%88%D0%B8%D0%BD)",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B0-%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0+%28%D0%93%D0%B0%D1%80%D1%88%D0%B8%D0%BD%29&oldid=4719264",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B0-%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0+%28%D0%93%D0%B0%D1%80%D1%88%D0%B8%D0%BD%29&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:01.214381+00:00",
+      "sourceRevision": 4719264,
+      "sourceAuthor": "автор Всеволод Михайлович Гаршин (1855—1888)",
+      "sourceEdition": "Библиотека Максима Мошкова",
+      "sourceResponseBytes": 23782,
+      "sourceResponseSha256": "8f9d3ed24eb7454076c80f325e75dd566f9045340e7cfc799560a06d74cb2093",
+      "completeTextSha256": "40fafb517cf87c07c213969de2938e07922c344546fe3f1880b85543d59d4ba0",
+      "removedReferenceMarkers": 1,
+      "sourceHasPublicDomainNotice": false,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "40fafb517cf87c07c213969de2938e07922c344546fe3f1880b85543d59d4ba0",
+      "editorialCorrectionCount": 0,
+      "textPageCount": 5,
+      "epigraphRetained": false
+    },
+    {
+      "id": "kuprin-elephant",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%A1%D0%BB%D0%BE%D0%BD_(%D0%9A%D1%83%D0%BF%D1%80%D0%B8%D0%BD)",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%A1%D0%BB%D0%BE%D0%BD+%28%D0%9A%D1%83%D0%BF%D1%80%D0%B8%D0%BD%29&oldid=5641525",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%A1%D0%BB%D0%BE%D0%BD+%28%D0%9A%D1%83%D0%BF%D1%80%D0%B8%D0%BD%29&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:01.708915+00:00",
+      "sourceRevision": 5641525,
+      "sourceAuthor": "автор Александр Иванович Куприн",
+      "sourceEdition": "А. И. Куприн. Собрание сочинений в 9 томах. Том 4. — М.: Художественная литература, 1971. — С. 363 — 372. ; az.lib.ru",
+      "sourceResponseBytes": 41286,
+      "sourceResponseSha256": "1d37986b3c2ffb7ff78bab12cb0c09a142636bbf05abd26da7ab07cf2433b880",
+      "completeTextSha256": "d5ff21ccb6bca60f76d893bce797092be9309a74330234a4749bf5df56adcc37",
+      "removedReferenceMarkers": 0,
+      "sourceHasPublicDomainNotice": false,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "ec291323720a3085fe952c702dc0edb6389e11b28ca347a5c693829db88b35e9",
+      "editorialCorrectionCount": 2,
+      "textPageCount": 14,
+      "epigraphRetained": false
+    },
+    {
+      "id": "chekhov-whitehead",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%BB%D0%BE%D0%B1%D1%8B%D0%B9_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%91%D0%B5%D0%BB%D0%BE%D0%BB%D0%BE%D0%B1%D1%8B%D0%B9+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&oldid=5642389",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%91%D0%B5%D0%BB%D0%BE%D0%BB%D0%BE%D0%B1%D1%8B%D0%B9+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:02.220572+00:00",
+      "sourceRevision": 5642389,
+      "sourceAuthor": "автор Антон Павлович Чехов (1860—1904)",
+      "sourceEdition": "Библиотека Алексея Комарова со ссылкой на книгу А. П. Чехов. Сочинения в 18 томах // Полное собрание сочинений и писем в 30 томах. — М.: Наука, 1977. — Т. 9. [Рассказы. Повести], 1894—1897. — С. 100—106.",
+      "sourceResponseBytes": 30549,
+      "sourceResponseSha256": "f8bbdbe04fe1dfe88552b3d007b6285f84057b17bb50db0bd1da59833019f7f7",
+      "completeTextSha256": "ff9c2bf01a6bf42fd2aeedaf862bfe0af0d2ef28d3e0474c25f6e508b208a4be",
+      "removedReferenceMarkers": 0,
+      "sourceHasPublicDomainNotice": true,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "1773271211e7dd2a79ebcbe6669acfb21eae82c7b45a0f3424a5f63fff22ca40",
+      "editorialCorrectionCount": 2,
+      "textPageCount": 8,
+      "epigraphRetained": false
+    },
+    {
+      "id": "chekhov-chameleon",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82_%D0%9F%D0%A1%D0%A1_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0_1974%E2%80%941982",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%A5%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29%2F%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82+%D0%9F%D0%A1%D0%A1+%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0+1974%E2%80%941982&oldid=5321508",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%A5%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29%2F%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82+%D0%9F%D0%A1%D0%A1+%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0+1974%E2%80%941982&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:02.599137+00:00",
+      "sourceRevision": 5321508,
+      "sourceAuthor": "автор Антон Павлович Чехов (1860—1904)",
+      "sourceEdition": "Библиотека Комарова со ссылкой на книгу А. П. Чехов. Сочинения в 18 томах // Полное собрание сочинений и писем в 30 томах. — М.: Наука, 1975. — Т. 3. [Рассказы. Юморески. «Драма на охоте»], 1884—1885. — С. 52—55..",
+      "sourceResponseBytes": 19325,
+      "sourceResponseSha256": "3a419c8110242184ca9a655f40c3672ced7350b82499de490cc5a185e4257d8c",
+      "completeTextSha256": "048222ad1776d3a2398650e83543db0dc4a613b29150655ae8cc092715ed3850",
+      "removedReferenceMarkers": 0,
+      "sourceHasPublicDomainNotice": false,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "048222ad1776d3a2398650e83543db0dc4a613b29150655ae8cc092715ed3850",
+      "editorialCorrectionCount": 0,
+      "textPageCount": 4,
+      "epigraphRetained": false
+    },
+    {
+      "id": "pushkin-stationmaster",
+      "sourceUrl": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE_%D0%98%D0%B2%D0%B0%D0%BD%D0%B0_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D0%B0_%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%D0%B0_(%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD)/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+      "sourcePermanentUrl": "https://ru.wikisource.org/w/index.php?title=%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE+%D0%98%D0%B2%D0%B0%D0%BD%D0%B0+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D0%B0+%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%D0%B0+%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29%2F%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C&oldid=5634936",
+      "apiUrl": "https://ru.wikisource.org/w/api.php?action=parse&page=%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE+%D0%98%D0%B2%D0%B0%D0%BD%D0%B0+%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D0%B0+%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%D0%B0+%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29%2F%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2&redirects=1",
+      "httpStatus": 200,
+      "checkedAt": "2026-10-11T18:46:03.235182+00:00",
+      "sourceRevision": 5634936,
+      "sourceAuthor": "автор Александр Сергеевич Пушкин",
+      "sourceEdition": "РВБ (1959)",
+      "sourceResponseBytes": 61743,
+      "sourceResponseSha256": "68e72254dfc709a22ad90f08cadb87ea4988f79c27418212feb2b3664b13186b",
+      "completeTextSha256": "ead8ed6be590cb71aad88fd7ab3f31bf957a9b1c3e9f9692f5967574087e1b5f",
+      "removedReferenceMarkers": 7,
+      "sourceHasPublicDomainNotice": true,
+      "sourceHasLicenseNotice": false,
+      "originalExtractedTextSha256": "ead8ed6be590cb71aad88fd7ab3f31bf957a9b1c3e9f9692f5967574087e1b5f",
+      "editorialCorrectionCount": 0,
+      "textPageCount": 16,
+      "epigraphRetained": true
+    }
+  ],
+  "finalizedAt": "2026-10-11T18:56:26.465198+00:00",
+  "countingMethod": "textPageCount: количество объектов textPages; wordCount: последовательности букв/цифр, внутренний дефис и апостроф не разрывают слово; characterCount: авторский текст с пробелами и абзацными переводами строк, без завершающего перевода строки.",
+  "totals": {
+    "books": 8,
+    "readingPages": 57,
+    "paragraphs": 300,
+    "headings": 6,
+    "epigraphs": 1,
+    "words": 11287,
+    "characters": 70607,
+    "editorialCorrections": 4
+  },
+  "validation": {
+    "checkedAt": "2026-10-11T19:03:03.175621+00:00",
+    "pass": true,
+    "books": [
+      {
+        "id": "ushinsky-four-wishes",
+        "completeTextSha256": "5720d4cd612c374d45da365cd65b5c587b127a0438338c88ba81f82bb397bd02",
+        "pages": 2,
+        "valid": true
+      },
+      {
+        "id": "tolstoy-three-bears",
+        "completeTextSha256": "2338d4024c664d6cd3ea67059862ec6a8cc847e1ea358899511ad1206dc18b53",
+        "pages": 4,
+        "valid": true
+      },
+      {
+        "id": "tolstoy-filipok",
+        "completeTextSha256": "8eb04f328b53b1a4df73eb7a30c1268ce900ddcd4c85428f1c5dcc26bba3874b",
+        "pages": 4,
+        "valid": true
+      },
+      {
+        "id": "garshin-travelling-frog",
+        "completeTextSha256": "40fafb517cf87c07c213969de2938e07922c344546fe3f1880b85543d59d4ba0",
+        "pages": 5,
+        "valid": true
+      },
+      {
+        "id": "kuprin-elephant",
+        "completeTextSha256": "d5ff21ccb6bca60f76d893bce797092be9309a74330234a4749bf5df56adcc37",
+        "pages": 14,
+        "valid": true
+      },
+      {
+        "id": "chekhov-whitehead",
+        "completeTextSha256": "ff9c2bf01a6bf42fd2aeedaf862bfe0af0d2ef28d3e0474c25f6e508b208a4be",
+        "pages": 8,
+        "valid": true
+      },
+      {
+        "id": "chekhov-chameleon",
+        "completeTextSha256": "048222ad1776d3a2398650e83543db0dc4a613b29150655ae8cc092715ed3850",
+        "pages": 4,
+        "valid": true
+      },
+      {
+        "id": "pushkin-stationmaster",
+        "completeTextSha256": "ead8ed6be590cb71aad88fd7ab3f31bf957a9b1c3e9f9692f5967574087e1b5f",
+        "pages": 16,
+        "valid": true
+      }
+    ],
+    "catalogSha256": "3ae8afb7e44a3d60ef2b2b7c17af9494b8fd62020cc44149bd2888c994beb5dc",
+    "publicFileCountIncludingReport": 35,
+    "completeTextBytes": 127020,
+    "coverVisualReview": "Все 8 SVG отрендерены в контактный лист; заголовки, авторы, кириллица и поля проверены визуально. Интерфейс читалки проверяет основная задача."
+  },
+  "files": [
+    {
+      "path": "public/books-ru/chekhov-chameleon/book.json",
+      "bytes": 15745,
+      "sha256": "b1c545d2835d1a178f9124913fc6e1406ca34f6476080d757d2e3e02a879af54"
+    },
+    {
+      "path": "public/books-ru/chekhov-chameleon/cover.svg",
+      "bytes": 2036,
+      "sha256": "06e054c767a233096a56f32adb642435884b8c36aa92b3120a64f3a76db0071e"
+    },
+    {
+      "path": "public/books-ru/chekhov-chameleon/full-text.txt",
+      "bytes": 10381,
+      "sha256": "048222ad1776d3a2398650e83543db0dc4a613b29150655ae8cc092715ed3850"
+    },
+    {
+      "path": "public/books-ru/chekhov-chameleon/provenance.json",
+      "bytes": 27530,
+      "sha256": "e98f8044d2997560d8548991fbdafdd8a09b5a993c3556a92a370136d03d66c2"
+    },
+    {
+      "path": "public/books-ru/chekhov-whitehead/book.json",
+      "bytes": 24758,
+      "sha256": "83ec6ea59ac500b766e8518dd705d297c585b2c7479f4f5ea2fe29fd029796a6"
+    },
+    {
+      "path": "public/books-ru/chekhov-whitehead/cover.svg",
+      "bytes": 2042,
+      "sha256": "90fd85703abeb1b2b48fb0d0856b53f702d881f4fd210d3bc530294f031688cd"
+    },
+    {
+      "path": "public/books-ru/chekhov-whitehead/full-text.txt",
+      "bytes": 17943,
+      "sha256": "ff9c2bf01a6bf42fd2aeedaf862bfe0af0d2ef28d3e0474c25f6e508b208a4be"
+    },
+    {
+      "path": "public/books-ru/chekhov-whitehead/provenance.json",
+      "bytes": 43730,
+      "sha256": "a35a613b546fe6885648d735e0b57fc153049b0ed192de9ce5bf2ec49227ad28"
+    },
+    {
+      "path": "public/books-ru/cover-preview.png",
+      "bytes": 126094,
+      "sha256": "5e351a3637da980c7839136193544f83610c8828c7d263c036ef43ce65543850"
+    },
+    {
+      "path": "public/books-ru/garshin-travelling-frog/book.json",
+      "bytes": 19804,
+      "sha256": "d542da2798508883feeac1d561e23419f57800188e6aa7f5b5bf630e40f5b200"
+    },
+    {
+      "path": "public/books-ru/garshin-travelling-frog/cover.svg",
+      "bytes": 2216,
+      "sha256": "94a40e64e1e80631aa059a6ab25d56f7279a40b0b64cde316e8b1d9d0b8ca1a9"
+    },
+    {
+      "path": "public/books-ru/garshin-travelling-frog/full-text.txt",
+      "bytes": 14417,
+      "sha256": "40fafb517cf87c07c213969de2938e07922c344546fe3f1880b85543d59d4ba0"
+    },
+    {
+      "path": "public/books-ru/garshin-travelling-frog/provenance.json",
+      "bytes": 36831,
+      "sha256": "3369b114a696c494ff38f85d54cf2c28e02828ee44ce890c9fdc11b59605d4cb"
+    },
+    {
+      "path": "public/books-ru/kuprin-elephant/book.json",
+      "bytes": 40009,
+      "sha256": "d6b638c7029bce6334357a340cc17b8f46fb630290c5f4d08ed0b24cb7a8e7b2"
+    },
+    {
+      "path": "public/books-ru/kuprin-elephant/cover.svg",
+      "bytes": 2042,
+      "sha256": "bbb8063179568517c22279b1a1b351cabd6a3fe5add0011684f2167be1655a0f"
+    },
+    {
+      "path": "public/books-ru/kuprin-elephant/full-text.txt",
+      "bytes": 32304,
+      "sha256": "d5ff21ccb6bca60f76d893bce797092be9309a74330234a4749bf5df56adcc37"
+    },
+    {
+      "path": "public/books-ru/kuprin-elephant/provenance.json",
+      "bytes": 83038,
+      "sha256": "e2bb962190c686c0a5311be86d388ecdad61f3d0e1a06433e83a35432712a1b6"
+    },
+    {
+      "path": "public/books-ru/pushkin-stationmaster/book.json",
+      "bytes": 48160,
+      "sha256": "bcdadb479b25472c095a7d0b971877de3740f4461bf6abcfc3ae2c960ab5dbf2"
+    },
+    {
+      "path": "public/books-ru/pushkin-stationmaster/cover.svg",
+      "bytes": 2211,
+      "sha256": "ca63f78d69e4fff65ed4573f6e448ea24eee0c49693344f72fdb752453c2d2a9"
+    },
+    {
+      "path": "public/books-ru/pushkin-stationmaster/full-text.txt",
+      "bytes": 39915,
+      "sha256": "ead8ed6be590cb71aad88fd7ab3f31bf957a9b1c3e9f9692f5967574087e1b5f"
+    },
+    {
+      "path": "public/books-ru/pushkin-stationmaster/provenance.json",
+      "bytes": 91557,
+      "sha256": "bbb8538c6d69a96b3cb10019a82fd2efaa57c1ab6a2705a41a6bfc0e23ea6d6b"
+    },
+    {
+      "path": "public/books-ru/source-structure.json",
+      "bytes": 1181,
+      "sha256": "a8e619115e1cfe884b880242ef8855597291587b39cb3c8e0b124f33575ecbe2"
+    },
+    {
+      "path": "public/books-ru/tolstoy-filipok/book.json",
+      "bytes": 9400,
+      "sha256": "3d3b57b083137fba4d61fb88a83766bb93e1aea7fec374fe2106d08254d0c4d7"
+    },
+    {
+      "path": "public/books-ru/tolstoy-filipok/cover.svg",
+      "bytes": 2029,
+      "sha256": "fc06559a07350692b5cf5e81112cb293ed583c66b3e96f88a450efb404368fdb"
+    },
+    {
+      "path": "public/books-ru/tolstoy-filipok/full-text.txt",
+      "bytes": 4537,
+      "sha256": "8eb04f328b53b1a4df73eb7a30c1268ce900ddcd4c85428f1c5dcc26bba3874b"
+    },
+    {
+      "path": "public/books-ru/tolstoy-filipok/provenance.json",
+      "bytes": 13010,
+      "sha256": "2c9e9738f84650760895f31d5c2cd0e014cd461302b78e34894bbb2e2e932421"
+    },
+    {
+      "path": "public/books-ru/tolstoy-three-bears/book.json",
+      "bytes": 10526,
+      "sha256": "1505742de26842ebe37ca0b447c97e1e9254f85c2d3030291a59b18fb2259930"
+    },
+    {
+      "path": "public/books-ru/tolstoy-three-bears/cover.svg",
+      "bytes": 2050,
+      "sha256": "4cf468559b8f264f014c1f68bc92e94b60cdf93c7c231e18a645edbf69994e0c"
+    },
+    {
+      "path": "public/books-ru/tolstoy-three-bears/full-text.txt",
+      "bytes": 5654,
+      "sha256": "2338d4024c664d6cd3ea67059862ec6a8cc847e1ea358899511ad1206dc18b53"
+    },
+    {
+      "path": "public/books-ru/tolstoy-three-bears/provenance.json",
+      "bytes": 15508,
+      "sha256": "61c4eca397c51aef888f1e2344da6598f63fc0a5a72a456d314e532f7d3ba0e2"
+    },
+    {
+      "path": "public/books-ru/ushinsky-four-wishes/book.json",
+      "bytes": 6462,
+      "sha256": "10434369a7714fe76c8fef1cb969a4ee07afaead96190407d12b2b3823ede374"
+    },
+    {
+      "path": "public/books-ru/ushinsky-four-wishes/cover.svg",
+      "bytes": 2176,
+      "sha256": "2149f0817ab09898f1900e8abf5669746cd32845c4d155a02f2f10ea1b34aa72"
+    },
+    {
+      "path": "public/books-ru/ushinsky-four-wishes/full-text.txt",
+      "bytes": 1869,
+      "sha256": "5720d4cd612c374d45da365cd65b5c587b127a0438338c88ba81f82bb397bd02"
+    },
+    {
+      "path": "public/books-ru/ushinsky-four-wishes/provenance.json",
+      "bytes": 7318,
+      "sha256": "f842975edbdd3e078e7a8a048415f18ea2037d5000c6618012ff9070dcd58039"
+    }
+  ]
+}
