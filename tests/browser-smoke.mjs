@@ -8,7 +8,8 @@ import {createRequire} from 'node:module';
 import {fileURLToPath} from 'node:url';
 import {spawn} from 'node:child_process';
 const require=createRequire(import.meta.url);
-let chromium;try{({chromium}=require('playwright'));}catch{({chromium}=require(path.join(os.homedir(),'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright')));}
+import {playwright} from './playwright-runtime.mjs';
+const {chromium}=playwright;
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const output=path.join(root,'test-output');fs.mkdirSync(output,{recursive:true});
 const dataDir=fs.mkdtempSync(path.join(os.tmpdir(),'lumi-browser-'));

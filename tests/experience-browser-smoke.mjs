@@ -9,7 +9,8 @@ import {fileURLToPath} from 'node:url';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const require=createRequire(import.meta.url);
-const {chromium}=require(path.join(os.homedir(),'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright'));
+import {playwright} from './playwright-runtime.mjs';
+const {chromium}=playwright;
 const output=path.join(root,'test-output');fs.mkdirSync(output,{recursive:true});
 const dir=fs.mkdtempSync(path.join(os.tmpdir(),'lumi-experience-ui-'));
 const hash=value=>{const salt=crypto.randomBytes(16).toString('hex');return salt+':'+crypto.scryptSync(value,salt,64).toString('hex');};

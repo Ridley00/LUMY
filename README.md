@@ -74,7 +74,7 @@
 
 Готовый EXE находится в release/0.3.0/. Electron 44.7.0, electron-builder 26.15.3 и PDF.js 6.4.299 закреплены в lockfile. В renderer сохранены nodeIntegration:false, contextIsolation:true, sandbox:true, webSecurity:true.
 
-Проверки интерфейса: tests/browser-smoke.mjs, tests/world-browser-smoke.mjs, tests/experience-browser-smoke.mjs. Проверки Electron: tests/desktop-smoke.mjs и tests/desktop-demo-smoke.mjs, с LUMI_EXE, указывающим на release/0.3.0/win-unpacked/Lumi.exe. Переносимый EXE проверяет tests/portable-smoke.ps1. Тесты создают отдельные временные семьи. Браузерные тесты используют Playwright и Edge; текущие пути тестового runtime относятся к локальному окружению Codex.
+Проверки интерфейса: tests/browser-smoke.mjs, tests/world-browser-smoke.mjs, tests/experience-browser-smoke.mjs. Проверки Electron: tests/desktop-smoke.mjs и tests/desktop-demo-smoke.mjs, с LUMI_EXE, указывающим на release/0.3.0/win-unpacked/Lumi.exe. Переносимый EXE проверяет tests/portable-smoke.ps1. Тесты создают отдельные временные семьи. Браузерные тесты используют Playwright и Edge. Установите Playwright в тестовом окружении или задайте LUMI_PLAYWRIGHT_PATH с абсолютным путём к установленному пакету. Скрипт Start-Lumi.ps1 использует Node.js из PATH; другой путь к node.exe можно указать в LUMI_NODE.
 
 ## Что ещё требуется
 

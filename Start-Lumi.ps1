@@ -11,9 +11,15 @@ try {
     $running = $health.ok -and $health.application -eq 'lumi'
 } catch { }
 if (-not $running) {
-    $nodeCommand = Get-Command node -ErrorAction SilentlyContinue
-    $bundledNode = Join-Path $env:USERPROFILE '.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe'
-    $nodePath = if (Test-Path -LiteralPath $bundledNode) { $bundledNode } elseif ($nodeCommand) { $nodeCommand.Source } else { throw 'Node.js 22+ is required. Install it, then run this launcher again.' }
+    $nodeCommand = Get-Command node -CommandType Application -ErrorAction SilentlyContinue
+    $nodePath = if ($env:LUMI_NODE) { $env:LUMI_NODE } elseif ($nodeCommand) { $nodeCommand.Source } else { $null }
+    if (!$nodePath -or !(Test-Path -LiteralPath $nodePath -PathType Leaf)) {
+        throw 'Install Node.js 22+ and add it to PATH, or set LUMI_NODE to the full path to node.exe.'
+    }
+    $nodeVersion = & $nodePath --version
+    if ($LASTEXITCODE -ne 0 -or $nodeVersion -notmatch '^v(\d+)\.' -or [int]$Matches[1] -lt 22) {
+        throw 'Node.js 22+ is required. Update Node.js, then run this launcher again.'
+    }
     $logRoot = Join-Path $appRoot 'logs'
     New-Item -ItemType Directory -Path $logRoot -Force | Out-Null
     $env:LUMI_PORT = "$port"
